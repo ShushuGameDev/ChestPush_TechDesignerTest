@@ -1,0 +1,764 @@
+{
+  "schemaVersion": 1,
+  "levelId": "717b34ef61e1425b8b2d5aed9bc8bce4",
+  "layers": [
+    {
+      "id": 0,
+      "baseY": 0,
+      "floors": [
+        {
+          "x": -2,
+          "z": -4,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": -2,
+          "z": -3,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": -2,
+          "z": -2,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": -2,
+          "z": -1,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": -2,
+          "z": 0,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": -2,
+          "z": 1,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": -2,
+          "z": 2,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": -2,
+          "z": 3,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": -2,
+          "z": 4,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": -1,
+          "z": -4,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": -1,
+          "z": -3,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": -1,
+          "z": -2,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": -1,
+          "z": -1,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": -1,
+          "z": 0,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": -1,
+          "z": 1,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": -1,
+          "z": 2,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": -1,
+          "z": 3,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": -1,
+          "z": 4,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 0,
+          "z": -4,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 0,
+          "z": -3,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 0,
+          "z": -2,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 0,
+          "z": -1,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 0,
+          "z": 0,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 0,
+          "z": 1,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 0,
+          "z": 2,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 0,
+          "z": 3,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 0,
+          "z": 4,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 1,
+          "z": -4,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 1,
+          "z": -3,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 1,
+          "z": -2,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 1,
+          "z": -1,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 1,
+          "z": 0,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 1,
+          "z": 1,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 1,
+          "z": 2,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 1,
+          "z": 3,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 1,
+          "z": 4,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 2,
+          "z": -4,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 2,
+          "z": -3,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 2,
+          "z": -2,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 2,
+          "z": -1,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 2,
+          "z": 0,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 2,
+          "z": 1,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 2,
+          "z": 2,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 2,
+          "z": 3,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 2,
+          "z": 4,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 3,
+          "z": -4,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 3,
+          "z": -3,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 3,
+          "z": -2,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 3,
+          "z": -1,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 3,
+          "z": 0,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 3,
+          "z": 1,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 3,
+          "z": 2,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 3,
+          "z": 3,
+          "blockId": "Floor_Normal"
+        },
+        {
+          "x": 3,
+          "z": 4,
+          "blockId": "Floor_Normal"
+        }
+      ]
+    }
+  ],
+  "placements": [
+    {
+      "instanceId": "40acd905648b4a5ab4d8b8b70beb9345",
+      "layerId": 0,
+      "x": 3,
+      "z": -4,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": 3,
+        "z": -4
+      }
+    },
+    {
+      "instanceId": "75758f3847f14d729260645e1ff5ed5b",
+      "layerId": 0,
+      "x": 3,
+      "z": -3,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": 3,
+        "z": -3
+      }
+    },
+    {
+      "instanceId": "6d0bae389e97483e966c542c08ac717b",
+      "layerId": 0,
+      "x": 3,
+      "z": -2,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": 3,
+        "z": -2
+      }
+    },
+    {
+      "instanceId": "3b13cc23190741e5ad5c3e94c0b7a2a6",
+      "layerId": 0,
+      "x": 3,
+      "z": -1,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": 3,
+        "z": -1
+      }
+    },
+    {
+      "instanceId": "c34fbe4c9aaa495b9045da350c548224",
+      "layerId": 0,
+      "x": 3,
+      "z": 0,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": 3,
+        "z": 0
+      }
+    },
+    {
+      "instanceId": "0bf8eb833cb44413be49890a696bd060",
+      "layerId": 0,
+      "x": 3,
+      "z": 1,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": 3,
+        "z": 1
+      }
+    },
+    {
+      "instanceId": "a9bb1f5c34b945f980e5ec76250797ee",
+      "layerId": 0,
+      "x": 3,
+      "z": 2,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": 3,
+        "z": 2
+      }
+    },
+    {
+      "instanceId": "651b43356aac4b23ac45c0acb47ab72b",
+      "layerId": 0,
+      "x": 3,
+      "z": 3,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": 3,
+        "z": 3
+      }
+    },
+    {
+      "instanceId": "51d5d88734ee41e695e5de03b14bedcd",
+      "layerId": 0,
+      "x": 3,
+      "z": 4,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": 3,
+        "z": 4
+      }
+    },
+    {
+      "instanceId": "f7452b95f4cb4b3a92d21ec13e63bacb",
+      "layerId": 0,
+      "x": -2,
+      "z": 4,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": -2,
+        "z": 4
+      }
+    },
+    {
+      "instanceId": "9d8d0e252ef14e469e8ef21aab4184fd",
+      "layerId": 0,
+      "x": -1,
+      "z": 4,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": -1,
+        "z": 4
+      }
+    },
+    {
+      "instanceId": "d3ab337b4b034605aaf4ce2a050e6b92",
+      "layerId": 0,
+      "x": 0,
+      "z": 4,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": 0,
+        "z": 4
+      }
+    },
+    {
+      "instanceId": "de2653b866f545ddb867bcc08410aaa4",
+      "layerId": 0,
+      "x": 1,
+      "z": 4,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": 1,
+        "z": 4
+      }
+    },
+    {
+      "instanceId": "1411b7bb8d654196b5eefd41e4401f87",
+      "layerId": 0,
+      "x": 2,
+      "z": 4,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": 2,
+        "z": 4
+      }
+    },
+    {
+      "instanceId": "d5873b4fa6474a058e5351642811286c",
+      "layerId": 0,
+      "x": 1,
+      "z": 0,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": 1,
+        "z": 0
+      }
+    },
+    {
+      "instanceId": "00c70605704a412a9912d5796c251e81",
+      "layerId": 0,
+      "x": 0,
+      "z": 0,
+      "slot": "Box",
+      "blockId": "Box_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": 0,
+        "z": 0
+      }
+    },
+    {
+      "instanceId": "b89aeb7952154220be131b558edf0fec",
+      "layerId": 0,
+      "x": -1,
+      "z": 2,
+      "slot": "Marker",
+      "blockId": "Marker_Spawn",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": -1,
+        "z": 2
+      }
+    },
+    {
+      "instanceId": "af80f9268b64461e9688f89d1a6446e9",
+      "layerId": 0,
+      "x": -2,
+      "z": 3,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": -2,
+        "z": 3
+      }
+    },
+    {
+      "instanceId": "03c6784b4b5d471f8b2aac7cb1cab301",
+      "layerId": 0,
+      "x": -2,
+      "z": -4,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": -2,
+        "z": -4
+      }
+    },
+    {
+      "instanceId": "ad5650b9a813461aaa61e728a74e0772",
+      "layerId": 0,
+      "x": -2,
+      "z": -3,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": -2,
+        "z": -3
+      }
+    },
+    {
+      "instanceId": "40da459f274447fdbdf61342fee0b86e",
+      "layerId": 0,
+      "x": -2,
+      "z": -2,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": -2,
+        "z": -2
+      }
+    },
+    {
+      "instanceId": "b40e78d313b24f9b9d603d50518a94fb",
+      "layerId": 0,
+      "x": -2,
+      "z": -1,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": -2,
+        "z": -1
+      }
+    },
+    {
+      "instanceId": "076fa085516b438f8387123c37dd4e46",
+      "layerId": 0,
+      "x": -2,
+      "z": 0,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": -2,
+        "z": 0
+      }
+    },
+    {
+      "instanceId": "c24a0ccd025e4f5992b87edba6ad0ff1",
+      "layerId": 0,
+      "x": -2,
+      "z": 1,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": -2,
+        "z": 1
+      }
+    },
+    {
+      "instanceId": "2615d663d09545488d414cbe18b17c08",
+      "layerId": 0,
+      "x": -2,
+      "z": 2,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": -2,
+        "z": 2
+      }
+    },
+    {
+      "instanceId": "c2f0e54687fa4203a93cc4a4111edaa2",
+      "layerId": 0,
+      "x": -1,
+      "z": -4,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": -1,
+        "z": -4
+      }
+    },
+    {
+      "instanceId": "fd2ef3f983c04047bac1454f7c5ffc85",
+      "layerId": 0,
+      "x": 0,
+      "z": -4,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": 0,
+        "z": -4
+      }
+    },
+    {
+      "instanceId": "70d553e568ef4424a5bf147bbb0c65b2",
+      "layerId": 0,
+      "x": 1,
+      "z": -4,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": 1,
+        "z": -4
+      }
+    },
+    {
+      "instanceId": "df6f86f4153a48cda59ad0ade7296e8b",
+      "layerId": 0,
+      "x": 2,
+      "z": -4,
+      "slot": "Structure",
+      "blockId": "Wall_Normal",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": 2,
+        "z": -4
+      }
+    },
+    {
+      "instanceId": "f30b1a2a233a47e082f431097cc1ea80",
+      "layerId": 0,
+      "x": 2,
+      "z": 0,
+      "slot": "Marker",
+      "blockId": "Marker_Target",
+      "breakModes": "None",
+      "switchIds": [],
+      "allowedActors": "Both",
+      "Point": {
+        "layerId": 0,
+        "x": 2,
+        "z": 0
+      }
+    }
+  ]
+}

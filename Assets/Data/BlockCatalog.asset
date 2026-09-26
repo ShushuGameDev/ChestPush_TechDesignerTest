@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6efa72bdd4118c746ba1df7c97bc8e16, type: 3}
+  m_Name: BlockCatalog
+  m_EditorClassIdentifier: ChestPush.Runtime:ChestPush.LevelData:BlockCatalog
+  entries:
+  - id: Floor_Normal
+    category: 0
+    kind: 0
+    passable: 1
+    address: ChestPush/Blocks/Floor_Normal
+    prefab:
+      m_AssetGUID: 89d5696adc128b64a8f8af1cf181f62e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - id: Wall_Normal
+    category: 1
+    kind: 0
+    passable: 0
+    address: ChestPush/Blocks/Wall_Normal
+    prefab:
+      m_AssetGUID: 91fb332e4ff51a448b75ba980647d9b6
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - id: Wall_Breakable
+    category: 1
+    kind: 1
+    passable: 0
+    address: ChestPush/Blocks/Wall_Breakable
+    prefab:
+      m_AssetGUID: 1550d046244dcac4f94fbea0af257727
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - id: Wall_Teleport
+    category: 1
+    kind: 2
+    passable: 1
+    address: ChestPush/Blocks/Wall_Teleport
+    prefab:
+      m_AssetGUID: b3675d99204f3cd4790b23b4994d772f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - id: Box_Normal
+    category: 3
+    kind: 0
+    passable: 0
+    address: ChestPush/Blocks/Box_Normal
+    prefab:
+      m_AssetGUID: a0bebb9dc6dc91846a95bf4802d6486b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - id: Marker_Spawn
+    category: 2
+    kind: 3
+    passable: 1
+    address: ChestPush/Blocks/Marker_Spawn
+    prefab:
+      m_AssetGUID: 0ba9d7d0aa4597841b32de88dfa2df3c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - id: Marker_Target
+    category: 2
+    kind: 4
+    passable: 1
+    address: ChestPush/Blocks/Marker_Target
+    prefab:
+      m_AssetGUID: 9197c4cf7a360dc41a830ca0799c320d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - id: Marker_PressurePlate
+    category: 2
+    kind: 5
+    passable: 1
+    address: ChestPush/Blocks/Marker_PressurePlate
+    prefab:
+      m_AssetGUID: e32dfad10cfec1b4c95970ffaa3cdbcb
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - id: Player_Normal
+    category: 4
+    kind: 0
+    passable: 0
+    address: ChestPush/Blocks/Player_Normal
+    prefab:
+      m_AssetGUID: 0fc1d70fd7f338c45aa4812468fa93c1
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
