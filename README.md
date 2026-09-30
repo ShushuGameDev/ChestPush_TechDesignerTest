@@ -1,19 +1,31 @@
-# 项目文档入口
+# ChestPush
 
-进入本仓库后，请先阅读本文件，再阅读模块索引和本次任务对应的模块文档，最后进入脚本、场景和资源。
+基于 Unity 2022.3 URP 的 3D 推箱子项目。运行时使用单一主场景，从 JSON 构建关卡；关卡目录图与 3D 关卡编辑器通过 Unity Editor 使用。
 
-## 阅读顺序
+## 关卡编辑器快速上手
 
-1. 本文件 `README.md`
-2. [脚本模块索引](Docs/ScriptModules/README.md)
-3. 任务涉及的模块文档
-4. 对应的实现文件与 Unity 资源
+### 1. 打开关卡目录
 
-Agent 的执行与验证规则见 [AGENTS.md](AGENTS.md)。
+在 Unity 菜单中选择 `Tools > ChestPush > Level Editor`。目录图用于创建、整理和连接关卡节点。
 
-## 项目概览
+![Unity 菜单栏中的 ChestPush 编辑器入口](Docs/Images/level-editor-menu.png)
 
-本仓库为 Unity 2022.3 URP 的 3D 推箱子项目。运行时使用单一主场景，从 JSON 构建关卡；关卡编辑工具在 Unity Editor 中使用。
+### 2. 创建并整理关卡
+
+在目录图中输入关卡文件名（例如 `easy_00_guide`）创建节点。选中节点后可设置入口、解锁条件和关卡顺序；从节点输出端口拖到另一个节点的输入端口即可建立连接。目录操作会自动保存。
+
+![关卡目录图：节点关系与编辑器操作入口](Docs/Images/level-editor-graph.png)
+
+### 3. 绘制 3D 关卡
+
+选中节点并点击 `Edit 3D level`，进入 Scene 视图编辑模式，编辑器窗口会切换为 Palette。选择层和方块后，在 Scene 视图左键放置或擦除；按 `B` 切换单格画笔，按 `R` 切换矩形工具。右键可选择格子并编辑机关属性。完成后点击 `保存并返回目录`。
+
+![Scene 视图与 Palette 编辑界面](Docs/Images/level-editor-scene.png)
+
+### 4. 检查关卡数据
+
+使用 `Tools > ChestPush > Validate Project` 检查关卡数据和 Addressables 引用。关卡数据结构与完整编辑器操作说明见[关卡数据文档](Docs/ScriptModules/LevelData.md)和[关卡编辑器文档](Docs/ScriptModules/LevelEditor.md)。
+
 
 ## 文档索引
 
@@ -23,11 +35,4 @@ Agent 的执行与验证规则见 [AGENTS.md](AGENTS.md)。
 - [关卡流程](Docs/ScriptModules/GameFlow.md)
 - [关卡编辑器](Docs/ScriptModules/LevelEditor.md)
 
-新增项目级规范时，在此添加链接。具体实现细节、调参过程和日期记录放在对应模块文档，不堆放在本入口。
-
-## 文档维护
-
-- 新增模块：创建 `Docs/ScriptModules/<模块名>.md`，并更新本文件与模块索引。
-- 修改已有模块：同步更新受影响的模块文档；涉及多个模块时分别更新。
-- 修改项目目录或项目级约定：更新本文件中的概览或索引。
-- 只记录已验证的当前状态；尚未实现的内容明确标为“计划中”。
+开发协作、文档维护和验证约定见 [AGENTS.md](AGENTS.md)。
